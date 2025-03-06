@@ -19,9 +19,9 @@ Technologies Used 🛠
 
 Flutter (Dart)
 
-Google Maps API (or any map service you use)
+Google Maps API 
 
-Firebase / Local Storage (if applicable)
+Local Storage for cache
 
 
 
