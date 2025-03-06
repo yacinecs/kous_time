@@ -27,4 +27,4 @@ Firebase / Local Storage (if applicable)
 
 Contribution 🤝
 
-Contributions are welcome! Feel free to submit issues or pull requests to improve KousBapp.
+Contributions are welcome! Feel free to submit issues or pull requests to improve Kous_time.
