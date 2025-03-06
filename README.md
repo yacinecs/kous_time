@@ -24,28 +24,6 @@ Google Maps API (or any map service you use)
 Firebase / Local Storage (if applicable)
 
 
-Installation & Usage 🚀
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/KousBapp.git
-
-
-2. Navigate to the project directory:
-
-cd KousBapp
-
-
-3. Install dependencies:
-
-flutter pub get
-
-
-4. Run the app:
-
-flutter run
-
-
 
 Contribution 🤝
 
